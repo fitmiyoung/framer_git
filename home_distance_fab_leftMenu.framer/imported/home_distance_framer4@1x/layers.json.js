@@ -1,0 +1,668 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["home_distance_framer4@1x/layers.json.js"] = [
+	{
+		"id": 2858,
+		"name": "bg",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/bg.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 640,
+				"height": 1136
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 2717,
+				"name": "icon_exercise",
+				"layerFrame": {
+					"x": 560,
+					"y": 358,
+					"width": 54,
+					"height": 54
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/icon_exercise.png",
+					"frame": {
+						"x": 561,
+						"y": 358,
+						"width": 53,
+						"height": 53
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1690835113"
+			}
+		],
+		"modification": "1781718001"
+	},
+	{
+		"id": 2729,
+		"name": "content",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 2860,
+				"name": "FABall",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 2761,
+						"name": "FAB",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2841,
+								"name": "icon0",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": null,
+								"imageType": null,
+								"children": [
+									{
+										"id": 2847,
+										"name": "icon_symbol",
+										"layerFrame": {
+											"x": 0,
+											"y": 0,
+											"width": 640,
+											"height": 1136
+										},
+										"maskFrame": null,
+										"image": {
+											"path": "images/icon_symbol.png",
+											"frame": {
+												"x": 41,
+												"y": 370,
+												"width": 22,
+												"height": 32
+											}
+										},
+										"imageType": "png",
+										"children": [
+											
+										],
+										"modification": "697009703"
+									},
+									{
+										"id": 2849,
+										"name": "icon_bg",
+										"layerFrame": {
+											"x": 0,
+											"y": 0,
+											"width": 640,
+											"height": 1136
+										},
+										"maskFrame": null,
+										"image": {
+											"path": "images/icon_bg.png",
+											"frame": {
+												"x": 26,
+												"y": 358,
+												"width": 53,
+												"height": 53
+											}
+										},
+										"imageType": "png",
+										"children": [
+											
+										],
+										"modification": "219937035"
+									}
+								],
+								"modification": "1141762590"
+							}
+						],
+						"modification": "57475712"
+					},
+					{
+						"id": 2808,
+						"name": "FAB_sel",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2846,
+								"name": "name0",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/name0.png",
+									"frame": {
+										"x": 93,
+										"y": 368,
+										"width": 163,
+										"height": 42
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "1685306951"
+							},
+							{
+								"id": 2839,
+								"name": "icon0_sel",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": null,
+								"imageType": null,
+								"children": [
+									{
+										"id": 2851,
+										"name": "icon_symbol_sel",
+										"layerFrame": {
+											"x": 0,
+											"y": 0,
+											"width": 640,
+											"height": 1136
+										},
+										"maskFrame": null,
+										"image": {
+											"path": "images/icon_symbol_sel.png",
+											"frame": {
+												"x": 39,
+												"y": 370,
+												"width": 30,
+												"height": 31
+											}
+										},
+										"imageType": "png",
+										"children": [
+											
+										],
+										"modification": "808654692"
+									},
+									{
+										"id": 2853,
+										"name": "icon_bg_sel",
+										"layerFrame": {
+											"x": 0,
+											"y": 0,
+											"width": 640,
+											"height": 1136
+										},
+										"maskFrame": null,
+										"image": {
+											"path": "images/icon_bg_sel.png",
+											"frame": {
+												"x": 23,
+												"y": 357,
+												"width": 59,
+												"height": 59
+											}
+										},
+										"imageType": "png",
+										"children": [
+											
+										],
+										"modification": "937771417"
+									}
+								],
+								"modification": "1654036789"
+							}
+						],
+						"modification": "414757065"
+					}
+				],
+				"modification": "970497502"
+			},
+			{
+				"id": 2798,
+				"name": "options",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 2797,
+						"name": "option1",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2829,
+								"name": "name1",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/name1.png",
+									"frame": {
+										"x": 93,
+										"y": 436,
+										"width": 92,
+										"height": 42
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "63565933"
+							},
+							{
+								"id": 2827,
+								"name": "icon1",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/icon1.png",
+									"frame": {
+										"x": 23,
+										"y": 425,
+										"width": 59,
+										"height": 59
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "1624367007"
+							}
+						],
+						"modification": "1188429284"
+					},
+					{
+						"id": 2791,
+						"name": "option2",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2831,
+								"name": "name2",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/name2.png",
+									"frame": {
+										"x": 93,
+										"y": 509,
+										"width": 92,
+										"height": 42
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "1082245641"
+							},
+							{
+								"id": 2833,
+								"name": "icon2",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/icon2.png",
+									"frame": {
+										"x": 23,
+										"y": 497,
+										"width": 59,
+										"height": 59
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "150341196"
+							}
+						],
+						"modification": "1020453247"
+					},
+					{
+						"id": 2785,
+						"name": "option3",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2835,
+								"name": "name3",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/name3.png",
+									"frame": {
+										"x": 93,
+										"y": 583,
+										"width": 92,
+										"height": 42
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "1007225944"
+							},
+							{
+								"id": 2837,
+								"name": "icon3",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/icon3.png",
+									"frame": {
+										"x": 23,
+										"y": 574,
+										"width": 59,
+										"height": 59
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "1694972941"
+							}
+						],
+						"modification": "1011714527"
+					}
+				],
+				"modification": "482592653"
+			},
+			{
+				"id": 2862,
+				"name": "optionBg",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/optionBg.png",
+					"frame": {
+						"x": 0,
+						"y": 310,
+						"width": 640,
+						"height": 826
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "812301030"
+			},
+			{
+				"id": 2815,
+				"name": "content_30km",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 2825,
+						"name": "icon_wall",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/icon_wall.png",
+							"frame": {
+								"x": 244,
+								"y": 456,
+								"width": 148,
+								"height": 160
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "866848228"
+					},
+					{
+						"id": 2813,
+						"name": "text_30km",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": null,
+						"imageType": null,
+						"children": [
+							{
+								"id": 2823,
+								"name": "text_distance",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/text_distance.png",
+									"frame": {
+										"x": 187,
+										"y": 390,
+										"width": 255,
+										"height": 37
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "867622732"
+							},
+							{
+								"id": 2819,
+								"name": "text_length",
+								"layerFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 640,
+									"height": 1136
+								},
+								"maskFrame": null,
+								"image": {
+									"path": "images/text_length.png",
+									"frame": {
+										"x": 56,
+										"y": 644,
+										"width": 529,
+										"height": 33
+									}
+								},
+								"imageType": "png",
+								"children": [
+									
+								],
+								"modification": "867652775"
+							}
+						],
+						"modification": "379297627"
+					}
+				],
+				"modification": "1302227686"
+			},
+			{
+				"id": 2712,
+				"name": "content_20km",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/content_20km.png",
+					"frame": {
+						"x": 231,
+						"y": 448,
+						"width": 173,
+						"height": 173
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 2710,
+						"name": "kr",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/kr.png",
+							"frame": {
+								"x": 77,
+								"y": 390,
+								"width": 486,
+								"height": 288
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1931345675"
+					}
+				],
+				"modification": "1492583806"
+			}
+		],
+		"modification": "1071904981"
+	}
+]

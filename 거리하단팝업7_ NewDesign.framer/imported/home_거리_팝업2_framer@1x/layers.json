@@ -1,0 +1,266 @@
+[
+	{
+		"id": 4471,
+		"name": "bg",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/bg.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 640,
+				"height": 1136
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 4479,
+				"name": "icon_food",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/icon_food.png",
+					"frame": {
+						"x": 107,
+						"y": 460,
+						"width": 449,
+						"height": 114
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "2106219164"
+			},
+			{
+				"id": 4468,
+				"name": "fab_copy",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 4464,
+						"name": "icon_open",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/icon_open.png",
+							"frame": {
+								"x": 584,
+								"y": 372,
+								"width": 7,
+								"height": 29
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1103870089"
+					},
+					{
+						"id": 4461,
+						"name": "bg_fab",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 640,
+							"height": 1136
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/bg_fab.png",
+							"frame": {
+								"x": 561,
+								"y": 359,
+								"width": 53,
+								"height": 53
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "139765635"
+					}
+				],
+				"modification": "450796115"
+			}
+		],
+		"modification": "132345744"
+	},
+	{
+		"id": 4569,
+		"name": "popup",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 640,
+			"height": 1136
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/popup.png",
+			"frame": {
+				"x": 0,
+				"y": 739,
+				"width": 640,
+				"height": 397
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 4568,
+				"name": "btn_left",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/btn_left.png",
+					"frame": {
+						"x": 27,
+						"y": 794,
+						"width": 109,
+						"height": 36
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1019895884"
+			},
+			{
+				"id": 4543,
+				"name": "btn_right",
+				"layerFrame": {
+					"x": 572,
+					"y": 794,
+					"width": 36,
+					"height": 36
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/btn_right.png",
+					"frame": {
+						"x": 572,
+						"y": 794,
+						"width": 36,
+						"height": 36
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1895769003"
+			},
+			{
+				"id": 4539,
+				"name": "text_title",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/text_title.png",
+					"frame": {
+						"x": 233,
+						"y": 798,
+						"width": 185,
+						"height": 31
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "140629413"
+			},
+			{
+				"id": 4694,
+				"name": "text_best",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/text_best.png",
+					"frame": {
+						"x": 264,
+						"y": 847,
+						"width": 124,
+						"height": 20
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "140599870"
+			},
+			{
+				"id": 4534,
+				"name": "tooltip_icon",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 640,
+					"height": 1136
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/tooltip_icon.png",
+					"frame": {
+						"x": 0,
+						"y": 889,
+						"width": 640,
+						"height": 247
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "140599806"
+			}
+		],
+		"modification": "1680889189"
+	}
+]

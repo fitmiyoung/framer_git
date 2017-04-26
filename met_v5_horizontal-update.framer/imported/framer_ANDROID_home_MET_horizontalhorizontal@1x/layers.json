@@ -1,0 +1,267 @@
+[
+	{
+		"id": 199,
+		"name": "horizontal",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 1920,
+			"height": 1309
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/horizontal.png",
+			"frame": {
+				"x": -1024,
+				"y": -1024,
+				"width": 2944,
+				"height": 3128
+			}
+		},
+		"imageType": "png",
+		"children": [
+			{
+				"id": 201,
+				"name": "navi",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/navi.png",
+					"frame": {
+						"x": 1148,
+						"y": 104,
+						"width": 706,
+						"height": 52
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1102173389"
+			},
+			{
+				"id": 348,
+				"name": "date_3.png",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/date_3.png.png",
+					"frame": {
+						"x": 1080,
+						"y": 76,
+						"width": 840,
+						"height": 1128
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1354932798"
+			},
+			{
+				"id": 306,
+				"name": "date_2.png",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/date_2.png.png",
+					"frame": {
+						"x": 1080,
+						"y": 76,
+						"width": 840,
+						"height": 1128
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1686105694"
+			},
+			{
+				"id": 188,
+				"name": "date_1.jpg",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/date_1.jpg.png",
+					"frame": {
+						"x": 1080,
+						"y": 76,
+						"width": 840,
+						"height": 1128
+					}
+				},
+				"imageType": "jpg",
+				"children": [
+					
+				],
+				"modification": "1716830865"
+			},
+			{
+				"id": 203,
+				"name": "list_bg.png",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/list_bg.png.png",
+					"frame": {
+						"x": 1070,
+						"y": 70,
+						"width": 850,
+						"height": 1254
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1537427097"
+			},
+			{
+				"id": 205,
+				"name": "time",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/time.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 1920,
+						"height": 75
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "226428676"
+			},
+			{
+				"id": 208,
+				"name": "graph",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1920,
+					"height": 2104
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 349,
+						"name": "Group_1",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1920,
+							"height": 2104
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/Group_1.png",
+							"frame": {
+								"x": 0,
+								"y": 76,
+								"width": 1080,
+								"height": 1004
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "327513981"
+					},
+					{
+						"id": 351,
+						"name": "Group_2",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1920,
+							"height": 2104
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/Group_2.png",
+							"frame": {
+								"x": 0,
+								"y": 76,
+								"width": 1080,
+								"height": 1004
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "446970050"
+					},
+					{
+						"id": 353,
+						"name": "Group_3",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1920,
+							"height": 2104
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/Group_3.png",
+							"frame": {
+								"x": 0,
+								"y": 76,
+								"width": 1080,
+								"height": 1004
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1252011045"
+					}
+				],
+				"modification": "240542758"
+			}
+		],
+		"modification": "89219900"
+	}
+]
