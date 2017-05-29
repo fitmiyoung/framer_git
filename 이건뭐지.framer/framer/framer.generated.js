@@ -212,9 +212,9 @@ window.__imported__["framer_home_distance_5_onlyText@1x/layers.json.js"] = [
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};
-if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-5s-silver","contentScale":1,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-5s-silver","contentScale":1,"hideBezel":true,"orientation":0};
 }
-if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-5s-silver","contentScale":1,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"apple-iphone-5s-silver","contentScale":1,"hideBezel":true,"orientation":0};
 }
 window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"이건뭐지.framer"};
 
